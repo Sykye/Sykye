@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Szam! 👋
 
-<!--
-**Sykye/Sykye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student at Politeknik Negeri Cilacap.
 
-Here are some ideas to get you started:
+I'm interested in learning about cybersecurity, digital forensics, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- D4 Cybersecurity Engineering
+- Politeknik Negeri Cilacap
+
+### 📚 Currently Learning
+- Cybersecurity
+
+### 💻 Projects
+- Online Tailoring Order Application (Laravel)
+- Lost and Found Application (Android Studio)
+
+### 🔍 Interests
+- Cybersecurity
+- Digital Forensics
+- Problem Solving
+- Logic Puzzles
+
+### 📫 Connect with Me
+- GitHub: [My GitHub Profile](https://github.com/Sykye)
